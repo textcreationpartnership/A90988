@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The shepherds prognostication fore-telling, the sad and strange eclipse of the sun, which wil happen on the 29. of March this present year 1652. Which eclipse will begin about eight of the clock in the fore-noon, and so continue till past the hour of eleven; which will be is dismallest day that ever was known since the year 33. when our savior Christ suffered on the cross for the sins of mankind. At which time, the seas did roare, the earth did quake, the graves did open, the temple rent from the top to the bottom, Luk. 23. 45. And there was a darknesse over all the land. This prediction also fore-tells of many strange presages and passages which will follow after that horrible eclipse of the sun, and what wil insue. With a perfect way whereby to avoid the insuing danger. By L.P.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90988</idno>
+            <idno type="STC">Wing P3383</idno>
+            <idno type="STC">Thomason E1351_1</idno>
+            <idno type="STC">ESTC R209363</idno>
+            <idno type="EEBO-CITATION">99868243</idno>
+            <idno type="PROQUEST">99868243</idno>
+            <idno type="VID">169818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169818)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 178:E1351[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The shepherds prognostication fore-telling, the sad and strange eclipse of the sun, which wil happen on the 29. of March this present year 1652. Which eclipse will begin about eight of the clock in the fore-noon, and so continue till past the hour of eleven; which will be is dismallest day that ever was known since the year 33. when our savior Christ suffered on the cross for the sins of mankind. At which time, the seas did roare, the earth did quake, the graves did open, the temple rent from the top to the bottom, Luk. 23. 45. And there was a darknesse over all the land. This prediction also fore-tells of many strange presages and passages which will follow after that horrible eclipse of the sun, and what wil insue. With a perfect way whereby to avoid the insuing danger. By L.P.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fra. Grove on Snow-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>L.P. = Laurence Price.</note>
+                  <note>Annotation on Thomason copy: "Jan. 16. 1652".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Solar eclipses --  1652 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169818:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <p>THE Shepherds Prognoſtication, Fore-telling, The ſad and ſtrange Eclipſe of the Sun, which wil happen on the 29. of <hi>March</hi> this preſent year 1652.</p>
+            <p>WHICH Eclipſe will begin about eight of the clock in the fore-noon, and ſo con<g ref="char:EOLhyphen"/>tinue till paſt the hour of eleven, which will be the diſmalleſt day that ever was known ſince the year 33. when our Savior Chriſt ſuffered on the Croſſe for the ſins of Mankind.</p>
+            <q>
+               <hi>At which time, the Seas did roare, the earth did quake, the graves did open, the temple rent from the top to the bottom,</hi>
+               <bibl>Luk. 23.45.</bibl>
+            </q>
+            <p>And there was a darkneſſe over all the Land.</p>
+            <p>This Prediction alſo fore-tells of many ſtrange Preſages and Paſſages which will follow after that horri<g ref="char:EOLhyphen"/>ble Eclipſe of the Sun, and what wil inſue.</p>
+            <p>With a perfect way whereby to avoid the inſuing danger.</p>
+            <p>By <hi>L. P.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>Fra. Grove</hi> on Snow-hill.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:169818:2"/>
+            <!-- PDF PAGE 71 -->
+            <pb facs="tcp:169818:2"/>
+            <!-- PDF PAGE 71 -->
+            <head>THE Preface to the Readers, and Hearers.</head>
+            <opener>
+               <salute>Beloved Friends and Country-men,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have cauſed this little booke to bee Printed, which I call <hi>the Shepherds Prognoſtication,</hi> and to be ſent abroad into the ſeve<g ref="char:EOLunhyphen"/>ral parts of <hi>England, Wales,</hi> &amp; <hi>Scotland,</hi> whereby to give all men forewarning of many ſtrange and wonderfull alte<g ref="char:EOLhyphen"/>rations that will come to paſſe this preſent year 1652. and of the great and terrible Ecclipſe of the Sun, alſo predicting what will after come to paſſe: Marke, peruſe, and note it well, it may through Gods aſsiſtance be both for your publick and private
+<pb facs="tcp:169818:3"/>
+               <!-- PDF PAGE 72 -->good. It is no fable, for whoſoever lives to ſee the 29. of <hi>March</hi> ſhall ſurely find the matter here written too true, except the world be brought to an end before that day comes, <hi>Mat.</hi> 24.29. <hi>and immediatly after the tribula<g ref="char:EOLhyphen"/>tion of thoſe daies, ſhall the Sun be dar<g ref="char:EOLhyphen"/>kened, and the Moon ſhall not give her light.</hi> Our Saviour Jeſus Chriſt in the 24. chapter, verſe 6, 7 concerning the end of the world, ſayeth thus, there <hi>ſhall be Ways, and rumors of wars, Nation ſhall riſe againſt Nation, the Father ſhal riſe againſt the Son, and the Son againſt the Father,</hi> and the like, verſe 33. when you ſhall <hi>ſee all theſe things come to paſſe know that the King<g ref="char:EOLhyphen"/>dom of God is neer, even at your doores.</hi> And now to go on forwards.</p>
+            <p>Concerning theſe ſayings, let us proceed further, and alſo conſi<g ref="char:EOLhyphen"/>der what hath been ſeen and knowne amongſt us which are called Chriſti<g ref="char:EOLhyphen"/>ans,
+<pb facs="tcp:169818:3"/>
+               <!-- PDF PAGE 72 -->in theſe our late and ſinfull times hath not the Father and the Sonne, the Mother and the Daughter, yea, and the Husbands and Wives, been, and fallen to great diſcords, about matters of Religion, they being of divers and ſeverall opinions. And hath not the Lord for our unrepented ſins? ſent many plagues and afflictions amongſt us, and poured downe his heavy judgements even upon the cheif<g ref="char:EOLhyphen"/>eſt of ten thouſands?</p>
+            <p>Have wee not had the terrible Plague of Peſtilence, both in <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, VVales</hi> and <hi>Ireland,</hi> rageing and devouring our people? and have wee not heard and felt of Wars, and rumours of Warres, with much blood ſhed and ſlaugh<g ref="char:EOLhyphen"/>ters, which would never have come to paſſe, if we had never of<g ref="char:EOLhyphen"/>ended God.</p>
+            <pb facs="tcp:169818:4"/>
+            <!-- PDF PAGE 73 -->
+            <p>Are not all theſe fore-runners which I have named, ſufficient tokens and evidences to prove that the Lord is angry with us, for our ſinfull living, and that the end of the world is neare at hand; then I pray you conſider what followes, and make good uſe of your time while yet you remaine alive.</p>
+         </div>
+      </front>
+      <body>
+         <div type="description">
+            <pb facs="tcp:169818:4"/>
+            <!-- PDF PAGE 73 -->
+            <head>Here followeth a briefe Deſcription of that dreadfull and horrible Ecclipſe of the Sun, which will happen upon <hi>Mon<g ref="char:EOLhyphen"/>day,</hi> being the 29th. day of <hi>March</hi> this preſent yeare 1652.</head>
+            <head type="sub">Shewing alſo By examples of fore-paſt times what will inſue be<g ref="char:EOLhyphen"/>fore and after this prodigious ECCLIPSE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Ecclipſe of the Sunne which is here ſpoken of will bee on Monday <hi>March 29. 1652.</hi> beginning forty eight minites after eight of the
+<pb facs="tcp:169818:5"/>
+               <!-- PDF PAGE 74 -->clock in the forenoone, and end<g ref="char:EOLhyphen"/>ing ſeventeene minutes after e<g ref="char:EOLhyphen"/>leven, in which time the Sunne, which is the eye and light of the world, will ſuffer ſuch a black E<g ref="char:EOLhyphen"/>clipſe, that it will almoſt be over<g ref="char:EOLhyphen"/>come with darkneſſe, which E<g ref="char:EOLhyphen"/>clipſe ſignifieth and betokeneth the fatall over-throw of ſome great Kings and Princes and men in Authority, within the limites of Chriſtian Dominions, with many other troubles and ſad diſaſters that will happen this yeare in our Cities, and Countries, as cruell dealings amongſt Neighbours, hatred, envy, and malice, Wars, and blood-ſhed, houſe-burnings, great Robberyes by Land and Sea, violent and forcible deaths to many, Famine, Plagues, and other ſtrange ſickneſſes: It alſo threatens a mighty diſturbance be<g ref="char:EOLhyphen"/>twixt the inferior people and their
+<pb facs="tcp:169818:5"/>
+               <!-- PDF PAGE 74 -->Governors, together with ſlaugh<g ref="char:EOLhyphen"/>ter and captivity of many great perſons, the ranſaking and ſack<g ref="char:EOLhyphen"/>ing of many great Cityes and Townes: Moreover, this Eclipſe ſignifies alteration of Opinions, changes of Magiſtrates, new Re<g ref="char:EOLhyphen"/>ligions, and a great madneſſe rag<g ref="char:EOLhyphen"/>ing and terrifying thouſands of people.</p>
+            <p>Furthermore, it foreſhews that there will follow unſeaſonable weathers with ſtrange and pro<g ref="char:EOLhyphen"/>digeous ſights to bee ſeene in the aire, with horrible tempeſts of thunders and lightnings, and bluſterous Windes, which will deſtroy the ſhips at Sea, and o<g ref="char:EOLhyphen"/>verthrow many buildings on the Land, the Corne will be blaſted on the ground and the Cattle of the field will dye of ſtrange diſ<g ref="char:EOLhyphen"/>eaſes</p>
+            <p>And thus loving Friends have
+<pb facs="tcp:169818:6"/>
+               <!-- PDF PAGE 75 -->I with much diligence and care<g ref="char:EOLhyphen"/>fulneſſe, plainly and publikly laid open unto you the manner how this Eclipſe of the Sun ſhall be, the time and day when, the length of its continuance, whilſt it is e<g ref="char:EOLhyphen"/>clipſed, and the ſtrange and ſad ef<g ref="char:EOLhyphen"/>fects that will follow after accord<g ref="char:EOLhyphen"/>ing to the Scripture and the ſenſe of Aſtrology.</p>
+            <p>Now will I with Gods leave alſo ſhew you a way and meanes, whereby to avoid thoſe dangerous evills which is like to fall upon the chiefeſt parts of all <hi>Europe,</hi> of which <hi>England</hi> is the firſt to bee ſpoken of.</p>
+         </div>
+         <div type="directions">
+            <pb facs="tcp:169818:6"/>
+            <!-- PDF PAGE 75 -->
+            <head>Here followeth the Au<g ref="char:EOLhyphen"/>thors directions, being the rea<g ref="char:EOLhyphen"/>dieſt way of all wayes to eſcape Gods anger and keep our ſelves out of danger in the proceeding perilous times, and thus it followeth.</head>
+            <p>IT is an old ſaying and worthy of obſervation how that God governes the ſtarres, and the ſtars governe men, but this is a certaine thing, that God both can and will govern both ſtars and men, as you may read in the book of <hi>Joſhua 10.13.</hi> How that the Lord God cauſed the Sunne and the Moon to ſtand ſtill, until ſuch time that the people of God had a<g ref="char:EOLhyphen"/>venged themſelves of their ene<g ref="char:EOLhyphen"/>mies,
+<pb facs="tcp:169818:7"/>
+               <!-- PDF PAGE 76 -->whereby we may well un<g ref="char:EOLhyphen"/>derſtand and know that God hath a greater power, then the Earth, and the Sea, the Aire, and the Firmament; the Planets, and the Stars, the Sunne and the Moon, and in a moment of time can the Lord cauſe them all to alter their properties, and to do what<g ref="char:EOLhyphen"/>ſoever he pleaſes to have done.</p>
+            <p>Looke againe in the booke of <hi>Iſaiah</hi> how <hi>Hezekiah</hi> was ſicke, and how the Prophet of the Lord came unto him, and bad him ſet his houſe in good order, and ther<g ref="char:EOLhyphen"/>withall told him that he ſhould dye and not live: <hi>then Hezekiah turned his face to the wall, and prayed to the Lord and wept bitterly, and be<g ref="char:EOLhyphen"/>hold the meſſenger of the Lord re<g ref="char:EOLhyphen"/>turned unto <hi>Hezekiah</hi> again and ſaid, the Lord hath heard thy prayers, and ſeen thy teares, and behold hee will adde unto thy daies, and thou ſhalt
+<pb facs="tcp:169818:7"/>
+                  <!-- PDF PAGE 76 -->live yet fifteen years longer; and this ſhall be a ſign from the Lord, I will bring againe the ſhadow of the Sun ten degrees backward whereby it is gone down. So the Sunne returned ten degrees, as the Lord God had promiſed it ſhould doe, <hi>Iſaiah</hi> 28. <hi>verſ.</hi> 8.</hi>
+            </p>
+            <p>By this we ſee that the power of the Lord farre exceeds all other powers whatſoever they be or can be. Now let us draw into conſi<g ref="char:EOLhyphen"/>deration, why and for what cauſe the Lord made the Sun and the Moon to ſtand ſtill in the time of <hi>Joſhua,</hi> and at another time, that the Sun ſhould goe back ten de<g ref="char:EOLhyphen"/>grees, in the time of <hi>Hezekiah:</hi> Surely the reaſon was this, <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> was a righteous man, one that ſerved, and obeyed the Lord in whatſoever he was commanded to doe: moreover <hi>Joſhua</hi> was a Warriour, and had promiſed to
+<pb facs="tcp:169818:8"/>
+               <!-- PDF PAGE 77 -->fight the Lords battle which he performed with much diligence wherefore the Lord ſhewed him this wonderfull token of his love and care that hee had over <hi>Joſhua</hi> and his followers by examples of the ſtanding ſtill of the Sun and Moon.</p>
+            <p>And as for <hi>Hezekiah</hi> he lamen<g ref="char:EOLhyphen"/>ted, he wept, and he prayed unto the Lord, in ſo much that the Lord God tooke pitty and compaſsion upon him, and withall prolonged his life and reſtored him to his for<g ref="char:EOLhyphen"/>mer health, ſo that the plague of Peſtilence nor any other ſickneſſes with which his Country was an<g ref="char:EOLhyphen"/>noyed, had no more power over him.</p>
+            <div type="advice">
+               <pb facs="tcp:169818:8"/>
+               <!-- PDF PAGE 77 -->
+               <head>Now here followes on the Direction.</head>
+               <p>LEt us ſtrive to accompany <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi> in his faithfulneſſe, and with all true obedience keep our promiſe with God and endeavour our ſelves to pleaſe his divine Ma<g ref="char:EOLhyphen"/>ieſty that the Lord may aſſiſt us in whatſoever we take in hand and let us with good <hi>Hezekiah,</hi> be ſure to ſet our houſes in order for we have no leaſe of our lives: Let us I ſay call upon the Lord, and pray unto his holy name, that thoſe ex<g ref="char:EOLhyphen"/>tream calamities and dreadfull de<g ref="char:EOLhyphen"/>ſtinyes which are like ſuddenly to come upon us, may be through the mercifulneſſe of our good God tur<g ref="char:EOLhyphen"/>ned away from our ſinful Nation &amp; let every man and every woman be ſorry for our time miſpent, ſince we all have done amiſſe.</p>
+               <pb facs="tcp:169818:9"/>
+               <!-- PDF PAGE 78 -->
+               <p>And ſo to conclude, let us with ſpeed ſeeke to amend our lives, and that I hold to bee the ready way to preſerve us alive: It is but a little while, and there<g ref="char:EOLhyphen"/>fore I pray you to looke to it in time. And ſo the Lord be merci<g ref="char:EOLhyphen"/>full unto us all, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
